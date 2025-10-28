@@ -1,4 +1,4 @@
-# 🟣 **PhonePe Data Analysis Report**
+# 🟣 **PhonePe Analysis Report**
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Money Transaction GIF" width="200"/>
